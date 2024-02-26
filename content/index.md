@@ -1,5 +1,5 @@
 ---
 title: starling
 ---
-Sort of a blog. Random ideas, politics, code, &c.
+Sort of a blog. Random ideas, [[Politics|politics]], code, &c.
 
