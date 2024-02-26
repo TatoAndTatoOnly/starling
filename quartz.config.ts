@@ -21,7 +21,7 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Inconsolata Medium 500",
+        header: "Inconsolata",
         body: "Inconsolata",
         code: "Courier Prime",
       },
