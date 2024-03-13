@@ -9,6 +9,8 @@ title: Sound changes
 | **Fricative**       |                | ==β== (bh)   | ==ð== (dh) | ==z== (s)     | ==ʝ== (çh)   | ==ɣ== (ch)   | ~~ʁ~~      |
 | ~~**Nasal**~~       | ~~mʷ~~         | ~~m~~        |            | ~~n~~         | ~~ɲ~~        | ~~ŋ~~        |            |
 | **~~Approximant~~** | ~~w~~          |              |            | ~~ɹ~~         | ~~j~~        |              |            |
+
+
 tabiʁa
 tʰabiʁa
 tʰabìa
@@ -32,31 +34,54 @@ culùgàdh
 | **Open-Mid**  | ==æ== (a) | ==ə== (ur)  |          |
 | **Open**      | ~~a~~     | ==ɐ== (ar)  |          |
 
-C\[-voiced, +stop]/\[+aspirated]
-Vs/V\[+˥]
-s/t/$_
-Vɹ/V\[+˩]
-Vw/V\[+˥]
-Vj/V\[+˥]
-w/u
-Vʁ/V\[+˩]ɾ
-C\[+rhotic]/ɾ
-VC\[+nasal]/V\[+˩]C\[+stop, +voiced]
-C\[+nasal]/C\[+stop, +voiced]
-V\[+front]/V\[+central, +˩]/\_q_
-q/k
-C\[+velar]/\[+palatal]/\_V\[+front]
-j/i
-ɘ/
-a/æ
-C\[+alveolar, -rhotic]/\[+dental]/\_V\[-back]
-C\[+aspirated, +stop]/\[+voiced, +fricative]/V_V
-C\[+fricative]/\[+voiced]
-C\[+stop]/\[+voiced, +fricative]/\_$
-C\[+stop, -voiced]/\[+voiced]/\$_
-C\[+labiovelar]/\[+bilabial]
-C\[-voiced]/voiced
 
+C[-voiced, +stop]/[+aspirated]
+
+Vs/V[+˥]
+
+s/t/$_
+
+Vɹ/V[+˩]
+
+Vw/V[+˥]
+
+Vj/V[+˥]
+
+w/u
+
+Vʁ/V[+˩]ɾ
+
+C[+rhotic]/ɾ
+
+VC[+nasal]/V[+˩]C[+stop, +voiced]
+
+C[+nasal]/C[+stop, +voiced]
+
+V[+front]/V[+central, +˩]/_q_
+
+q/k
+
+C[+velar]/[+palatal]/_V[+front]
+
+j/i
+
+ɘ/
+
+a/æ
+
+C[+alveolar, -rhotic]/[+dental]/_V[-back]
+
+C[+aspirated, +stop]/[+voiced, +fricative]/V_V
+
+C[+fricative]/[+voiced]
+
+C[+stop]/[+voiced, +fricative]/_$
+
+C[+stop, -voiced]/[+voiced]/$_
+
+C[+labiovelar]/[+bilabial]
+
+C[-voiced]/voiced
 
 
 
