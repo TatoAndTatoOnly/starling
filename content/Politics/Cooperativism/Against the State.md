@@ -1,5 +1,0 @@
----
-title: Against the State
-date: 2024-02-27
----
-The ideology of the land-owning state with absolute power over its residents is unjust and the root of all autocracy - as even the citizens of a democratic state cannot resist its power if it turns against them. They may either attempt a revolution, or simply leave the country - but a revolution simply installs a new autocrat, and leaving often means losing everything. Furthermore, though libertarians may speak of free contract, the state itself is a violation of this - for citizenship is often determined by birth, and a person who has no citizenship cannot even leave their country. In this way, the community of nations conspire to keep their power absolute. Although they may fight amongst themselves, their collective power over the whole earth is rarely questioned. 
