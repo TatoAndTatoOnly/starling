@@ -21,8 +21,8 @@ const config: QuartzConfig = {
     theme: {
       cdnCaching: false,
       typography: {
-        header: "Inconsolata",
-        body: "Inconsolata",
+        header: "Charis SIL",
+        body: "Charis SIL",
         code: "Courier Prime",
       },
       colors: {
