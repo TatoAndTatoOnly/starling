@@ -1,0 +1,1 @@
+Verbs do not appear to conjugate. Can the copula be dropped? Investigate.
