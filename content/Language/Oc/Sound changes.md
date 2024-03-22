@@ -1,3 +1,6 @@
+---
+title: Sound changes
+---
 
 |                         | Labiovelar     | Bilabial         | Dental                     | Palatal              | Velar            | Uvular         |
 | ----------------------- | -------------- | ---------------- | -------------------------- | -------------------- | ---------------- | -------------- |
@@ -13,42 +16,46 @@
 | **Close-Mid**    | e         |             | o        |
 | **Open-Mid**     | æ (a)     | ə (ë)      |          |
 | **~~==Open==~~** | ==~~a~~== |             |          |
-maosak
-maóakʰ
-baóak
-baóac
-bæóæc
-bæóæc
-pe̋aç   pėraċ
-péraç
 
-soka  sokaia
-sok
-sokʰ
-tok
-dok
-doc  docaia
+1. maosak
+2. maóakʰ
+3. baóak
+4. baóac
+5. bæóæc
+6. bæóæc
+7. pe̋aç   pėraċ
+8. péraç
 
-tabiʁa
-tabiʁ
-tʰabiʁ
-tʰabɨʁ
-tʰabɨ̀ɾ
-tʰabɨ̀d
-tʰæbɨ̀d
-tʰæbɨ̀d̪
-dæbɨ̀d̪
-dabị̈d  dabịrd
-dabìrd
+1. soka  sokaia
+2. sok
+3. sokʰ
+4. tok
+5. dok
+6. doc docaia
 
-pʰaqʰoRu
-paqòr
-pakòd
-pæcòd
-bæʝòd
-βæʝòd
-paç̇ọd paċhọd
-paç̇òd
+1. tabiʁa
+2. tabiʁ
+3. tʰabiʁ
+4. tʰabɨʁ
+5. tʰabɨ̀ɾ
+6. tʰabɨ̀d
+7. tʰæbɨ̀d
+8. tʰæbɨ̀d̪
+9. dæbɨ̀d̪
+10. dabị̈d  dabịrd
+11. dabìrd
+
+
+
+1. pʰaqʰoRu
+2. paqòr
+3. pakòd
+4. pæcòd
+5. bæʝòd
+6. βæʝòd
+7. paç̇ọd paċhọd
+8. paç̇òd
+
 ### Unordered
 - V//\_$
 - lV/ɾV\[+˥]
