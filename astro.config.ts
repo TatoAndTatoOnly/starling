@@ -13,7 +13,7 @@ import { remarkReadingTime } from "./src/utils/remark-reading-time";
 
 // https://astro.build/config
 export default defineConfig({
-	base: "starling",
+	base: "/",
 	image: {
 		domains: ["webmention.io"],
 	},
