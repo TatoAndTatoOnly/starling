@@ -71,7 +71,6 @@ export const expressiveCodeOptions: AstroExpressiveCodeOptions = {
 		return `[data-theme="${theme.name}"]`;
 	},
 	// One dark, one light theme => https://expressive-code.com/guides/themes/#available-themes
-	// Dark theme for page uses light theme code and vice versa
-	themes: ["rose-pine-dawn", "rose-pine"],
+	themes: ["catppuccin-latte", "catppuccin-macchiato"],
 	useThemedScrollbars: false,
 };
