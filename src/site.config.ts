@@ -65,7 +65,15 @@ export const expressiveCodeOptions: AstroExpressiveCodeOptions = {
 		if (styleVariants.length >= 2) {
 			const baseTheme = styleVariants[0]?.theme;
 			const altTheme = styleVariants.find((v) => v.theme.type !== baseTheme?.type)?.theme;
-			if (theme === baseTheme || theme === altTheme) return `[data-theme='${theme.type}']`;
+			if (theme === baseTheme || theme === altTheme) {
+				if (baseTheme && altTheme) {
+					if (theme.type === baseTheme.type) {
+						return `[data-theme='${altTheme.type}']`;
+					} else {
+						return `[data-theme='${baseTheme.type}']`;
+					}
+				}
+			}
 		}
 		// return default selector
 		return `[data-theme="${theme.name}"]`;
@@ -73,5 +81,6 @@ export const expressiveCodeOptions: AstroExpressiveCodeOptions = {
 	// One dark, one light theme => https://expressive-code.com/guides/themes/#available-themes
 	// Dark theme for page uses light theme code and vice versa
 	themes: ["rose-pine-dawn", "rose-pine"],
+	useDarkModeMediaQuery: false,
 	useThemedScrollbars: false,
 };
